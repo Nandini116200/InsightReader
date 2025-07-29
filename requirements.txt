@@ -11,3 +11,4 @@ gTTS
 pdf2image
 pytesseract
 pillow
+langchain-groq
