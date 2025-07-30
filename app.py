@@ -156,6 +156,7 @@ def main():
 
     st.markdown("<div class='title'>AI- Chatbot</div>", unsafe_allow_html=True)
     st.markdown("<div class='subtitle'>Upload a PDF and ask questions. Get instant answers with logic-based accuracy!</div>", unsafe_allow_html=True)
+    ("gsk_7r0U6OvZbCa9XV@Fb8lVdWGdyb3FYRfCPy!zW6QJ0e2MsRV@!Jyiiqbt")
 
     st.title("📄Insight Reader")
     st.markdown("---")
